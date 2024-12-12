@@ -3,7 +3,7 @@
 **You will need to be authentified to adobe.stock website!**
 
 1. Install tampermonkey on the chrome webstore
-    [Tampermonkey.net](https://www.tampermonkey.net/index.php?browser=chrome#google_vignette)
+    <a href="https://www.tampermonkey.net/index.php?browser=chrome#google_vignette" target="_blank">Tampermonkey.net</a>
 
 2. Create a new script in tampermonkey copy/paste the content of adobeImageDownloaderUserScript.js in the newly created script
 

@@ -1,0 +1,22 @@
+{
+  "name": "docs-image-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "process-images": "./index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "officeparser": "^5.1.1",
+    "open": "^10.1.0",
+    "sharp": "^0.33.5",
+    "tinify": "^1.7.1"
+  }
+}
